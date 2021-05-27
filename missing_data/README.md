@@ -2,11 +2,9 @@
 
 This project has been developed to evaluate the  complex networks.
 
-To re-use the dataset or the source code, please cite us:
-@article{ficaracavallaroetal2021missingdata,
+@misc{ficaracavallaroetal2021missingdata,
     title={Criminal Networks Analysis in Missing Data scenarios through Graph Distances},
-    author={Ficara, Annamaria and Cavallaro, Lucia and Curreri, Francesco and Fiumara, Giacomo and De Meo,
-            Pasquale and Bagdasar, Ovidiu and Song, Wei and Liotta, Antonio},
+    author={Ficara, Annamaria and Cavallaro, Lucia and Curreri, Francesco and Fiumara, Giacomo and De Meo, Pasquale and Bagdasar, Ovidiu and Song, Wei and Liotta, Antonio},
     year={2021},
     eprint={2103.00457},
     archivePrefix={arXiv},
