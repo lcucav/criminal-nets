@@ -4,7 +4,7 @@ Data collected in criminal investigations may suffer from issues like: (i) incom
 
 To re-use the dataset or the source code, please cite us:
 
-
+```
 @article{10.1371/journal.pone.0255067,
 	doi = {10.1371/journal.pone.0255067},
     	author = {Ficara, Annamaria AND Cavallaro, Lucia AND Curreri, Francesco AND Fiumara, Giacomo AND De Meo, Pasquale AND Bagdasar, Ovidiu AND Song, Wei AND Liotta, Antonio},
@@ -18,7 +18,7 @@ To re-use the dataset or the source code, please cite us:
     	pages = {1-18},
     	number = {8},
 }
-
+```
 
 
 ## Table of contents
