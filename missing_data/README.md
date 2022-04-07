@@ -55,5 +55,5 @@ The computational functions are in the utilspackage sub-folder and are grouped a
 
 <a id="1">[1]</a> 
 Ficara, A., and Cavallaro, L., and Curreri, F., and Fiumara, G., and De Meo, P., and Bagdasar, O., and Song, W., and Liotta, A. (2021) 
-Criminal networks analysis in missing data scenarios through graph distances
+Criminal networks analysis in missing data scenarios through graph distances.
 PLOS ONE 16(8): e0255067. https://doi.org/10.1371/journal.pone.0255067 
